@@ -1,1 +1,3 @@
-Comit 1: Miro
+Commit 1: Miro
+Commit 1: Miro
+Commit 2: Veermes
